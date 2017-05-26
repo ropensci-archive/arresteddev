@@ -1,9 +1,11 @@
-Package: adev
-Title: What the Package Does (one line, title case)
+Package: arresteddev
+Title: Arrested Development
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: c(person("Lucy", "D'Agositno McGowan", email = "ld.mcgowan@vanderbilt.edu", role = c("aut", "cre")),
+           person("Karthik", "Ram", , email = "karthik.ram@gmail.com", role = "aut"))
+Description: Here to help you when your development is, shall we say, arrested.
 Depends: R (>= 3.3.3)
-License: What license is it under?
+License:  MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
