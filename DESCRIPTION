@@ -2,7 +2,8 @@ Package: arresteddev
 Title: Arrested Development
 Version: 0.0.0.9000
 Authors@R: c(person("Lucy", "D'Agositno McGowan", email = "ld.mcgowan@vanderbilt.edu", role = c("aut", "cre")),
-           person("Karthik", "Ram", , email = "karthik.ram@gmail.com", role = "aut"))
+           person("Karthik", "Ram", , email = "karthik.ram@gmail.com", role = "aut"),
+           person("David", "Robinson", email = "admiral.david@gmail.com", role = "aut"))
 Description: Here to help you when your development is, shall we say, arrested.
 Depends: R (>= 3.3.3)
 License:  MIT + file LICENSE
