@@ -1,9 +1,14 @@
-Name: Let me Google that for you!
+Name: lmgtfy
 Description: Google the last error message in a new browser session.
 Binding: lmgtfy
 Interactive: false
 
-Name: Search Error in StackOverflow.
-Description: Search the last error message in StackOverflow.
+Name: tracestack
+Description: Search the last error message on StackOverflow.
 Binding: tracestack
+Interactive: false
+
+Name: squirrel
+Description: Secret squirrel.
+Binding: squirrel
 Interactive: false
