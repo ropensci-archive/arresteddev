@@ -13,13 +13,15 @@ Installation
 ``` r
 # Obtain the the development version from GitHub:
 # install.packages("devtools")
-devtools::install_github("LucyMcGowan/arresteddev")
+devtools::install_github("ropenscilabs/arresteddev")
 ```
 
 This package has 2 main functions to assist when you get stuck developing. It can
 
 1.  Help you look up your error messages (`lmgtfy()` and `tracestack()`)
 2.  Help distract you (`squirrel()`)
+
+Both functions can be [bound to hotkeys](https://rstudio.github.io/rstudioaddins/#keyboard-shorcuts)!
 
 ``` r
 library("arresteddev")
