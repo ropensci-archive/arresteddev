@@ -1,9 +1,9 @@
 Name: Let me Google that for you!
 Description: Google the last error message in a new browser session.
-Binding: lmgtfy()
+Binding: lmgtfy
 Interactive: false
 
 Name: Search Error in StackOverflow.
 Description: Search the last error message in StackOverflow.
-Binding: tracestack()
+Binding: tracestack
 Interactive: false
