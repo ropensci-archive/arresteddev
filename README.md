@@ -52,4 +52,5 @@ squirrel("http://arresteddevelopment.wikia.com/wiki/Main_Page")
 Questions?
 ------------
 Please direct them to our help desk:
+
 ![](https://media2.giphy.com/media/B1w90BqTbhuKs/giphy.gif)
