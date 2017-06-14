@@ -49,7 +49,8 @@ For example, this will send you to the Arrested Development wiki page.
 squirrel("http://arresteddevelopment.wikia.com/wiki/Main_Page")
 ```
 
-+Questions?
-+------------
-+Please direct them to our help desk:
-+![]https://media2.giphy.com/media/B1w90BqTbhuKs/giphy.gif 
+Questions?
+------------
+Please direct them to our help desk:
+
+![]https://media2.giphy.com/media/B1w90BqTbhuKs/giphy.gif 
